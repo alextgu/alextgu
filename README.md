@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander Gu</h1>
-<h3 align="center">I do what I love 🤷</h3>
+<h1>Hi 👋, I'm Alexander Gu</h1>
+<h3>I do what I love 🤷</h3>
 
 - 🔭 I’m currently working on **my super cool website**
 
