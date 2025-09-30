@@ -2,6 +2,7 @@
 <h3>coding is fun 🤷</h3>
 
 - 📫 How to reach me **alexnopost.gu@mail.utoronto.ca**
+I am building my personal website, it will be out soon :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
