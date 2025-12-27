@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Gu</h1>
-<h3 align="center">Stop Stressing.</h3>
+<h3 align="center">I want to learn how to cook</h3>
 
 <p>I am a student at the University of Toronto, and coding is my creative outlet. I really can't draw, sing, or dance, but I know how to use a keyboard and prompt AI! I love attending hackathons to meet new people and learning new things :). I'm currently working on my personal website and building a project a week. Contact me!</p>
 
