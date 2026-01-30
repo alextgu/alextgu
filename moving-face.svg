@@ -1,13 +1,20 @@
 <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-8px); }
+    @keyframes randomFloat {
+      0%   { transform: translate(0, 0) rotate(0deg); }
+      20%  { transform: translate(5px, -10px) rotate(5deg); }
+      40%  { transform: translate(-8px, 2px) rotate(-10deg); }
+      60%  { transform: translate(10px, 8px) rotate(15deg); }
+      80%  { transform: translate(-4px, -6px) rotate(-5deg); }
+      100% { transform: translate(0, 0) rotate(0deg); }
     }
-    .face { animation: bounce 2s infinite ease-in-out; }
+    .face { 
+      animation: randomFloat 10s infinite ease-in-out;
+      transform-origin: center;
+    }
   </style>
-  <foreignObject x="0" y="0" width="100" height="100" class="face">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+  <foreignObject x="0" y="0" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="face">
       <img src="github.JPG" style="width:100px; height:100px; border-radius:50%;" />
     </div>
   </foreignObject>
