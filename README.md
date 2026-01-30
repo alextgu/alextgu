@@ -1,16 +1,49 @@
-<h1 align="center">Alexander Gu</h1>
+<div align="center">
+  <img src="moving-face.svg" width="200" alt="bei bei" />
+</div>
 
+###
 
- 
-
-
-
-![bei bei](github.JPG)
-
-<a href="https://linkedin.com/in/alextgu" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandert-gu" height="30" width="40" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/alextgu">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
- 
-  <a href="https://instagram.com/alex.gu" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex.gu" height="30" width="40" />
+  <a href="https://www.instagram.com/alex.gu/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alextgu.alextgu&" />
+</div>
+
+###
+
+<h1 align="center">hey there <img src="moving-face.svg" width="30" /></h1>
+
+###
+
+<h3 align="left">
+  <img src="moving-face.svg" width="30" /> About Alex
+</h3>
+
+###
+
+<p align="left">
+I'm a developer from **Toronto, Canada**. <br><br>
+<img src="moving-face.svg" width="18" /> I’m currently looking for my next challenge. <br>
+<img src="moving-face.svg" width="18" /> I'm currently learning **everything** (curiosity is a full-time job). <br>
+<img src="moving-face.svg" width="18" /> In my free time, I take pictures, play with a ball, and head to hackathons.
+</p>
+
+###
+
+<h3 align="left"><img src="moving-face.svg" width="30" /> My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alextgu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
