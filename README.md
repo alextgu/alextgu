@@ -33,9 +33,9 @@
 
 <p align="left">
 I'm a developer from **Toronto, Canada**. <br><br>
-<img src="face1.svg" width="18" /> I’m currently looking for my next challenge. <br>
-<img src="face2.svg" width="18" /> I'm currently learning **everything** (curiosity is a full-time job). <br>
-<img src="face3.svg" width="18" /> In my free time, I take pictures, play with a ball, and head to hackathons.
+<img src="face1.svg" width="18" /> I’m currently looking JOB. <br>
+<img src="face2.svg" width="18" /> I'm currently learning EVERYTHING <br>
+<img src="face3.svg" width="18" /> In my free time, I take pictures, play with ball, and hackathons.
 </p>
 
 ###
