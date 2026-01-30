@@ -17,6 +17,6 @@
     </style>
   </defs>
   <g class="face">
-    <rect cx="50" cy="50" r="48" fill="url(#img)" />
+    <circle cx="50" cy="50" r="48" fill="url(#img)" />
   </g>
 </svg>
