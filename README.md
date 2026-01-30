@@ -21,21 +21,21 @@
 
 ###
 
-<h1 align="center">hey there <img src="face2.svg" width="30" /></h1>
+<h1 align="center">hey there <img src="face1.svg" width="30" /></h1>
 
 ###
 
 <h3 align="left">
-  <img src="face3.svg" width="30" /> About Alex
+  <img src="face1.svg" width="30" /> About Alex
 </h3>
 
 ###
 
 <p align="left">
 I'm a developer from **Toronto, Canada**. <br><br>
-<img src="face1.svg" width="18" /> I’m currently looking JOB. <br>
-<img src="face2.svg" width="18" /> I'm currently learning EVERYTHING <br>
-<img src="face3.svg" width="18" /> In my free time, I take pictures, play with ball, and hackathons.
+<img src="face1.svg" width="18" /> I’m currently looking for a job. <br>
+<img src="face1.svg" width="18" /> I'm currently learning **everything**. <br>
+<img src="face1.svg" width="18" /> In my free time, I take pictures, play with a ball, and go to hackathons.
 </p>
 
 ###
