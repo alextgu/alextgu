@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="moving-face.svg" width="200" alt="bei bei" />
+  <img src="face1.svg" width="200" alt="bei bei" />
 </div>
 
 ###
@@ -21,26 +21,26 @@
 
 ###
 
-<h1 align="center">hey there <img src="moving-face.svg" width="30" /></h1>
+<h1 align="center">hey there <img src="face2.svg" width="30" /></h1>
 
 ###
 
 <h3 align="left">
-  <img src="moving-face.svg" width="30" /> About Alex
+  <img src="face3.svg" width="30" /> About Alex
 </h3>
 
 ###
 
 <p align="left">
 I'm a developer from **Toronto, Canada**. <br><br>
-<img src="moving-face.svg" width="18" /> I’m currently looking for my next challenge. <br>
-<img src="moving-face.svg" width="18" /> I'm currently learning **everything** (curiosity is a full-time job). <br>
-<img src="moving-face.svg" width="18" /> In my free time, I take pictures, play with a ball, and head to hackathons.
+<img src="face1.svg" width="18" /> I’m currently looking for my next challenge. <br>
+<img src="face2.svg" width="18" /> I'm currently learning **everything** (curiosity is a full-time job). <br>
+<img src="face3.svg" width="18" /> In my free time, I take pictures, play with a ball, and head to hackathons.
 </p>
 
 ###
 
-<h3 align="left"><img src="moving-face.svg" width="30" /> My Stats :</h3>
+<h3 align="left"><img src="face1.svg" width="30" /> My Stats :</h3>
 
 ###
 
