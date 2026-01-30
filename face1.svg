@@ -1,0 +1,16 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes randomFloat {
+      0%   { transform: translate(0,0) rotate(0deg); }
+      33%  { transform: translate(4px,-8px) rotate(4deg); }
+      66%  { transform: translate(-6px,4px) rotate(-6deg); }
+      100% { transform: translate(0,0) rotate(0deg); }
+    }
+    .face { animation: randomFloat 10s infinite ease-in-out; transform-origin: center; }
+  </style>
+  <foreignObject x="0" y="0" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="face">
+      <img src="https://raw.githubusercontent.com/alextgu/alextgu/main/github.JPG" style="width:100px; height:100px; border-radius:50%;" />
+    </div>
+  </foreignObject>
+</svg>
