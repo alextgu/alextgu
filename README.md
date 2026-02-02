@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/alex.gu/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+<a href="https://devpost.com/alexwin2099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img src="https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003E54&logoColor=white&style=for-the-badge" height="25" alt="devpost logo" />
+</a>
 </div>
 
 ###
