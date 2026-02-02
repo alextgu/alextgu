@@ -39,8 +39,6 @@ I'm a developer from **Toronto, Canada**. <br><br>
 </p>
 
 ###
-
-<h3 align="left"><img src="face1.svg" width="30" /> My Stats :</h3>
-
+[![Alex's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alextgu&show_icons=true&theme=radical)](https://github.com/alextgu)
 ###
 
